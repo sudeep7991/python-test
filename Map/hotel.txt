@@ -1,0 +1,21 @@
+NAME,LAT,LON,RATING
+The4seasons(Mumbai),18.994576,72.820440,7
+LeelaPalace Kempinski(New Delhi),28.580158,77.189298,7
+TajFalaknuma Palace(Hyderabad),17.331514,78.466160,7
+TheImperial(New Delhi),28.625689,77.218057,7
+TheLeelaPalace(Banglore),12.960824,77.648349,7
+OberoiAmarvilas(Agra),27.168051,78.049012,7
+TajMahalPalace(Mumbai),18.921760,72.833009,7
+OberaiUdaivillas(Udaipur),24.577524,73.672046,7
+TajLakePalace(Udaipur),24.575370,73.679995,7
+OberoiRajvilas(Jaipur),26.875969,75.883813,7
+TheOberoi(Mumbai),18.927026,72.820452,5
+WildflowerHall(Shimla),31.113983,77.247673,5
+VivantabyTajMalabar(Kochi),9.969005,76.258285,5
+GoaMarriott,15.486632,73.809507,5
+TajClubHouse(Chennai),13.061474,80.263870,5
+HyattRegency(Chennai),13.043001,80.248730,5
+Swissotel(Kolkata),22.622855,88.450257,5
+TheLalit(Chandigarh),30.730807,76.841431,5
+JWMarriott(Mussoorie),30.481565,78.046692,5
+VivantaByTaj(Trivandrum),8.497322,76.958102,5
